@@ -7,5 +7,5 @@ Libraries needed :
 1. SpeechRecognition as sr
 2. gtts
 
-Video demonstration : https://vimeo.com/276032038?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220
+Video demonstration : https://vimeo.com/276032038
 Password : Splash
