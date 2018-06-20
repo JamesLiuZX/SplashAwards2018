@@ -5,7 +5,7 @@ This is a Python application designed to take names(input) from the passengers i
 
 Libraries needed : 
 1. SpeechRecognition as sr
-2. gtts
+2. gTTS
 
 Video demonstration : https://vimeo.com/276032038
 Password : Splash
