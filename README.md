@@ -1,4 +1,4 @@
-# SplashAwards2018AIAIrportAssIstants
+# SplashAwards2018 - AI AIrport AssIstants
 # Passengers need it, we have it.
 
 This is an AI project that demonstrates the viabibility and capability of incorporating Artificial Intelligence(AI) in customer service in airports, submitted to Splash Awards AI category 2018.
